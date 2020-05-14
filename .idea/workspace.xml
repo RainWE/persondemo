@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72e32678-87c1-42dd-aceb-aebe3560d93c" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/person/demo/springboot/TestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/person/demo/springboot/config/JdbcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/person/demo/springboot/config/JdbcProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/person/demo/springboot/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/person/springboot/controller/HelloController.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +52,17 @@
     <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../mycommunity" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,6 +124,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="persion-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.person.demo.springboot.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -126,7 +152,7 @@
       <updated>1589440693328</updated>
       <workItem from="1589440694544" duration="1224000" />
       <workItem from="1589442454033" duration="743000" />
-      <workItem from="1589443302607" duration="257000" />
+      <workItem from="1589443302607" duration="8126000" />
     </task>
     <servers />
   </component>
