@@ -6,8 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="persion-springboot" />
         <module name="code" />
+=======
+        <module name="http-demo" />
+        <module name="persion-springboot" />
+        <module name="personspringboot" />
+>>>>>>> 8107619e5c5cb3a4640c1038745cdc4346251aa1
       </profile>
     </annotationProcessing>
   </component>

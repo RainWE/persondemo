@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="681105bf-b23c-4e83-a02a-b10db2d09215" name="默认更改列表" comment="" />
+=======
+    <list default="true" id="72e32678-87c1-42dd-aceb-aebe3560d93c" name="默认更改列表" comment="" />
+>>>>>>> 8107619e5c5cb3a4640c1038745cdc4346251aa1
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +38,20 @@
   <component name="ProjectId" id="1bt6kN4ElnVhTjAjgHAaGn7noI9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/personspringboot" />
+=======
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../http-demo" />
+>>>>>>> 8107619e5c5cb3a4640c1038745cdc4346251aa1
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,10 +78,20 @@
       <created>1589439184945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1589439184945</updated>
       <workItem from="1589439186205" duration="268000" />
       <workItem from="1589440569202" duration="69000" />
       <workItem from="1589523061686" duration="40000" />
+=======
+      <updated>1589440693328</updated>
+      <workItem from="1589440694544" duration="1224000" />
+      <workItem from="1589442454033" duration="743000" />
+      <workItem from="1589443302607" duration="9936000" />
+      <workItem from="1589502342192" duration="598000" />
+      <workItem from="1589504978565" duration="599000" />
+      <workItem from="1589515549449" duration="771000" />
+>>>>>>> 8107619e5c5cb3a4640c1038745cdc4346251aa1
     </task>
     <servers />
   </component>
