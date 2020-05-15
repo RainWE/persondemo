@@ -14,6 +14,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="http-demo" options="-parameters" />
       <module name="persion-springboot" options="-parameters" />
       <module name="personspringboot" options="-parameters" />
     </option>

@@ -54,7 +54,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.TestApplication">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="personspringboot" />
       <option name="VM_PARAMETERS" />
@@ -116,6 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HttpDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="http-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.httpdemo.HttpDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="persion-springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.person.demo.springboot.TestApplication" />
@@ -148,6 +155,7 @@
       <workItem from="1589502342192" duration="598000" />
       <workItem from="1589504978565" duration="599000" />
       <workItem from="1589515549449" duration="771000" />
+      <workItem from="1589523103816" duration="254000" />
     </task>
     <servers />
   </component>
@@ -170,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
 </project>
