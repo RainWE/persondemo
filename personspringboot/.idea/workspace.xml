@@ -50,7 +50,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../http-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -155,7 +155,7 @@
       <workItem from="1589502342192" duration="598000" />
       <workItem from="1589504978565" duration="599000" />
       <workItem from="1589515549449" duration="771000" />
-      <workItem from="1589523103816" duration="254000" />
+      <workItem from="1589523103816" duration="439000" />
     </task>
     <servers />
   </component>
